@@ -21,6 +21,11 @@ A collaborative drawing application with real-time multi-user support
 - **Deployment:** Frontend on Vercel, Backend on Railway
 - [Live Demo](https://real-time-drawing-board.vercel.app/) | [Frontend Code](https://github.com/aringadre76/real-time-drawing-board-frontend) | [Backend Code](https://github.com/aringadre76/real-time-drawing-board-backend-deploy)
 
+### Dino Run Game in SystemVerilog
+- FPGA-based game with real-time VGA rendering
+- Implemented using finite state machines and ROM
+- [Watch Demo](https://www.youtube.com/shorts/A_kBcON_fjk)
+
 ### BingeFlix - Unified Streaming Search Platform
 A centralized platform aggregating content from multiple streaming services
 - **Tech Stack:** React, Node.js, MongoDB, ChatGPT API
@@ -31,10 +36,6 @@ A centralized platform aggregating content from multiple streaming services
 - Custom parser for the Klingon language
 - [View Project](https://github.com/aringadre76/KlingonParser)
 
-### Dino Run Game in SystemVerilog
-- FPGA-based game with real-time VGA rendering
-- Implemented using finite state machines and ROM
-- [Watch Demo](https://www.youtube.com/shorts/A_kBcON_fjk)
 
 ## 🌱 Currently Learning
 - Advanced Deep Learning techniques
