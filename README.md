@@ -14,6 +14,21 @@ I'm a Network and Digital Technology student at UC Santa Cruz and a Full Stack E
 
 ## 🚀 Featured Projects
 
+### BingeFlix - Unified Streaming Search Platform
+A modern streaming guide that helps users discover where to watch their favorite content
+- **Features:** 
+  - Google OAuth Authentication
+  - Real-time streaming availability search
+  - AI-powered content recommendations
+  - Personal watchlist management
+  - Sports team tracking
+- **Tech Stack:** 
+  - Frontend: React.js, Tailwind CSS
+  - Backend: Node.js, Express, MongoDB
+  - APIs: OpenAI GPT, Streaming Availability API
+- **Deployment:** Frontend on Vercel, Backend on Render
+- [Live Demo](https://bingeflixstreaming.vercel.app) | [Frontend Code](https://github.com/aringadre76/bingeflix-frontend) | [Backend Code](https://github.com/aringadre76/bingeflix-backend)
+
 ### Real-Time Drawing Board
 A collaborative drawing application with real-time multi-user support
 - **Features:** Real-time drawing, eraser tool, multi-user support
@@ -26,16 +41,9 @@ A collaborative drawing application with real-time multi-user support
 - Implemented using finite state machines and ROM
 - [Watch Demo](https://www.youtube.com/shorts/A_kBcON_fjk)
 
-### BingeFlix - Unified Streaming Search Platform
-A centralized platform aggregating content from multiple streaming services
-- **Tech Stack:** React, Node.js, MongoDB, ChatGPT API
-- **Role:** Scrum Master
-- [Frontend Code](https://github.com/aringadre76/bingeflix-frontend) | [Backend Code](https://github.com/aringadre76/bingeflix-backend)
-
 ### Klingon Parser
 - Custom parser for the Klingon language
 - [View Project](https://github.com/aringadre76/KlingonParser)
-
 
 ## 🌱 Currently Learning
 - Advanced Deep Learning techniques
