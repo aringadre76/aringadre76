@@ -11,8 +11,7 @@ I'm a Network and Digital Technology student at UC Santa Cruz. I'm passionate ab
 
 
 ## 🎓 Education
-- B.A. in Network and Digital Technology, UC Santa Cruz (Expected 2025)
-- Focus areas: Deep Learning, Software Engineering, Computer Networks, Compiler Design
+- B.A. in Network and Digital Technology, UC Santa Cruz (Expected 2026)
 
 ## 💻 Technical Skills
 - **Languages:** Python, Java, C/C++, JavaScript, TypeScript, Dart, PHP, Verilog, SQL, Go
