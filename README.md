@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Arin Gadre
 
-I'm a Network and Digital Technology student at UC Santa Cruz and a Full Stack Engineering Intern at [The Difference](https://thedifferenceapp.com/). I'm passionate about building scalable applications and exploring new technologies.
+I'm a Network and Digital Technology student at UC Santa Cruz. I'm passionate about building scalable applications and exploring new technologies.
 
 ## 📊 GitHub Stats
 
@@ -48,11 +48,11 @@ A powerful, consolidated research tool that helps find and analyze academic rese
 - [View Project](https://github.com/aringadre76/mcp-for-research)
 
 ## 🌱 Currently Learning
-- Advanced Deep Learning techniques
-- Compiler Design
-- Natural Language Processing
-- Distributed Systems Architecture
-- MCP (Model Context Protocol) development
+- AI Agents - For building intelligent, autonomous systems
+- n8n - For workflow automation and integrations
+- Browser Automation - For web scraping and automated testing
+- Firecrawl API - For web scraping and content extraction
+- MCP (Model Context Protocol) - For building AI agent tools and integrations
 
 ## 📫 Let's Connect!
 - [Portfolio](https://aringadre76.github.io/)
