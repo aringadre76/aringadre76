@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Arin Gadre
+# Hi there! I'm Arin Gadre
 
-I'm a Network and Digital Technology student at UC Santa Cruz. I'm passionate about building scalable applications and exploring new technologies.
+I'm a CE student at UC Santa Cruz. I'm passionate about building scalable applications and exploring new technologies.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aringadre76&layout=compact&langs_count=8&theme=radical&hide_border=true" />
@@ -10,18 +10,18 @@ I'm a Network and Digital Technology student at UC Santa Cruz. I'm passionate ab
 </p>
 
 
-## 🎓 Education
-- B.A. in Network and Digital Technology, UC Santa Cruz (Expected 2026)
+## Education
+- B.S. in Computer Engineering, UC Santa Cruz 2021 - 2025
 
-## 💻 Technical Skills
+## Technical Skills
 - **Languages:** Python, Java, C/C++, JavaScript, TypeScript, Dart, PHP, Verilog, SQL, Go
 - **Frameworks/Libraries:** React, Laravel, Flutter, PyTorch, Keras, Node.js, Express, Django, Svelte
 - **Tools & Technologies:** MongoDB, GitHub, MySQL, Android Studio, NLTK, Redis, Docker, Kubernetes
 - **Development:** SCRUM, Agile, API Integration, Unit Testing, MCP (Model Context Protocol)
 
-## 🚀 Featured Projects
+## Current Projects
 
-### ⚾ **Baseball Analytics & Research**
+### Baseball Analytics & Research
 
 #### Baseball Stats MCP Server
 The most comprehensive baseball analytics platform ever created, providing access to every advanced baseball metric through a powerful MCP server
@@ -37,7 +37,6 @@ A state-of-the-art machine learning system for assessing injury risk in baseball
 - **Highlights:** Production-ready system, 181 pitchers/hour processing, comprehensive biomechanical analysis
 - [View Project](https://github.com/aringadre76/baseball-research)
 
-### 🔬 **Research & AI Tools**
 
 #### Scholarly Research MCP Server
 A powerful, consolidated research tool that helps find and analyze academic research papers from PubMed, Google Scholar, ArXiv, and JSTOR
@@ -46,17 +45,17 @@ A powerful, consolidated research tool that helps find and analyze academic rese
 - **Highlights:** 80% reduction in tool count, full-text paper access, customizable search preferences
 - [View Project](https://github.com/aringadre76/mcp-for-research)
 
-## 🌱 Currently Learning
+## Currently Learning
 - AI Agents - For building intelligent, autonomous systems
 - n8n - For workflow automation and integrations
 - Browser Automation - For web scraping and automated testing
 - Firecrawl API - For web scraping and content extraction
 - MCP (Model Context Protocol) - For building AI agent tools and integrations
 
-## 📫 Let's Connect!
+## Let's Connect!
 - [Portfolio](https://aringadre76.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/arin-gadre/)
-- [Email](mailto:aringadre@gmail.com)
+- [Email](mailto:aringad@gmail.com)
 
 ---
-💡 I'm always open to interesting projects and collaborations. Feel free to reach out!
+I'm always open to interesting projects and collaborations. Feel free to reach out!
