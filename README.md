@@ -23,6 +23,13 @@ I'm a CE student at UC Santa Cruz. I'm passionate about building scalable applic
 
 ### Baseball Analytics & Research
 
+#### PinPlace
+A collaborative mapping web app where users create shareable maps and others add location pins in real-time. Features auto-lock, CSV/KML export, and Firebase-backed real-time sync.
+- **Features:** Real-time collaboration, auto-lock, CSV/KML export, Firebase integration
+- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Leaflet, Firebase, React Router
+- **Highlights:** User-friendly interface, real-time updates, customizable maps
+- [View Project](https://github.com/aringadre76/pinplace)
+- [Demo](https://pinplace.vercel.app/)
 #### Baseball Stats MCP Server
 The most comprehensive baseball analytics platform ever created, providing access to every advanced baseball metric through a powerful MCP server
 - **Features:** 32 comprehensive tools, real-time MLB data integration, advanced Statcast analytics, interactive visualizations
